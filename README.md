@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋 I'm Sometimes</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Sometimes;Web3+Builder;Blockchain+Explorer;Automation+Enthusiast;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=Sometimes;Web3+Builder;Automation+Engineer;Blockchain+Explorer;Always+Learning+🚀" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔗 Passionate about **Web3 & Blockchain**
-- 🤖 Interested in **automation and tooling**
-- 🧠 Learning **smart contracts and decentralized systems**
-- 🚀 Building small projects and exploring new technologies
+- 🌐 Exploring **Web3 & Blockchain**
+- 🤖 Building **Automation Tools**
+- 🔐 Learning **Smart Contract Security**
+- 🚀 Passionate about **decentralized technology**
 
 ---
 
@@ -27,11 +25,11 @@
 
 ## 🔗 Web3 Interests
 
-- Smart Contracts
-- Blockchain Tools
-- DeFi Infrastructure
-- Automation Bots
-- Web3 APIs
+- Smart Contracts  
+- DeFi Infrastructure  
+- Blockchain Tools  
+- Automation Bots  
+- Web3 APIs  
 
 ---
 
@@ -47,20 +45,12 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sometimes612/sometimes612/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📚 Currently Learning
 
-- Solidity Development
-- Web3 Automation
-- Smart Contract Security
-- Blockchain Infrastructure
+- Solidity Development  
+- Web3 Automation  
+- Smart Contract Security  
+- Blockchain Infrastructure  
 
 ---
 
@@ -87,9 +77,11 @@
 ## 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sometimes612&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sometimes612&label=Profile%20views&color=39FF14&style=flat"/>
 </p>
 
 ---
 
-⭐ Exploring the future of **Web3 and decentralized technologies**
+<p align="center">
+⚡ Exploring the future of Web3 ⚡
+</p>
